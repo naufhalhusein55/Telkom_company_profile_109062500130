@@ -18,3 +18,10 @@
 </header>
 <div style="clear: both;"></div>
 <main class="container">
+
+        <nav>
+            <a href="index.php">Beranda</a>
+            <a href="laboratorium.php">Laboratorium</a>
+            <a href="agenda.php">Agenda</a>
+            <a href="kontak.php">Kontak</a>
+        </nav>
